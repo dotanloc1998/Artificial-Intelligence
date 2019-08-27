@@ -1,0 +1,9 @@
+Dinh 1 duoc to mau 1
+Dinh 2 duoc to mau 1
+Dinh 3 duoc to mau 2
+Dinh 4 duoc to mau 1
+Dinh 5 duoc to mau 3
+Dinh 6 duoc to mau 2
+Dinh 7 duoc to mau 1
+Dinh 8 duoc to mau 3
+Dinh 9 duoc to mau 2
